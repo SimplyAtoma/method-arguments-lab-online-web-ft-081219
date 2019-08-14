@@ -1,3 +1,3 @@
 def introduction(string)
-  puts ""
+  puts "Hi, my name is #{string}.\n"
 end
